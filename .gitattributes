@@ -11,3 +11,4 @@ results_rm03_br2bbr.pickle filter=lfs diff=lfs merge=lfs -text
 results_rm05_br2bbr.pickle filter=lfs diff=lfs merge=lfs -text
 results_win_br2br.pickle filter=lfs diff=lfs merge=lfs -text
 results_det.pickle filter=lfs diff=lfs merge=lfs -text
+*.pickle filter=lfs diff=lfs merge=lfs -text
